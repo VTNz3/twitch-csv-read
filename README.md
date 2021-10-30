@@ -2,7 +2,7 @@ Twitch CSV Read
 
 Sızdırılan Twitch ödeme dosyalarını analiz etmek amacıyla oluşturulmuş, herhangi bir resmiyeti olmayan bir proje.
 
-NOT: Uygulamayı kullanabilmek için uygulamanın olduğu konuma "directory" adında bir klasör oluşturmanız ve Twitchden sızdırılan "all_revenues" dosyasını "directory" dosyasının içine atmanız gerekiyor.
+NOT: Uygulamayı kullanabilmek için uygulamanın olduğu konuma "directory" adında bir klasör oluşturmanız ve Twitch'ten sızdırılan "all_revenues" dosyasını "directory" dosyasının içine atmanız gerekiyor.
 
 NOT 2: "all_revenues" dosyasını attığınız zaman içerisinde ki .gz uzantılı dosyaları klasöre çıkartması için "gz-extract.exe" isimli uygulamayı çalıştırmalısınız. İsterseniz uygulamayı kullanmadan ellede çıkartabilirsiniz ama toplam 116 adet dosya olduğundan tek tek yapmakta zorlanabilirsiniz.
 
