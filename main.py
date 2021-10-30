@@ -23,7 +23,7 @@ for file in text_files:
             print(str(index) + ". dosya işlendi.")
             index = index + 1
 
-## .gz uzantılı dosyaların silinmesi
+## .gz uzantılı dosyaların silinmesi.
 secIndex = 1
 for file in text_files:
     os.chmod(file, 0o0777)
