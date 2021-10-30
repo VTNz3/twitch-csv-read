@@ -1,7 +1,6 @@
 import pandas as pd
 import time
 import glob
-import os
 import csv
 
 number = input('Twitch kullanıcı kimliğini girin. -- (twitchinsights.net/checkuser adresinden aratabilirsiniz)\n')
