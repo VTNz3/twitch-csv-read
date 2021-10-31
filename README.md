@@ -16,3 +16,5 @@ Tarama bittiği zaman veriler "outputs" klasörünün içinde ki "output.csv" is
 Tarama işlemi ortalama 3 ila 6 dakika arası sürmektedir fakat bilgisayarınızın performansına göre değişiklik gösterebilir.
 
 Bu projeyi belki kimse kullanmayacak olabilir fakat yapma amacım kendimi geliştirmek.
+
+Furkan Kılıç - @furkankilics
